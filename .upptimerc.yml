@@ -1,6 +1,7 @@
 # Change these first
 owner: nijel
 repo: status
+user-agent: weblate-status-bot
 
 # Add your sites here
 sites:
