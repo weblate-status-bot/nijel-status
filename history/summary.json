@@ -40,18 +40,20 @@
     "url": "https://wammu.eu/",
     "icon": "https://favicons.githubusercontent.com/wammu.eu",
     "slug": "wammu-eu",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 5301,
     "timeDay": 5301,
     "timeWeek": 5301,
     "timeMonth": 5301,
     "timeYear": 5301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-07": 0
+    }
   },
   {
     "name": "bypetula.cz",
