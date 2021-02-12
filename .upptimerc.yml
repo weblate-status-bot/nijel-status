@@ -13,6 +13,12 @@ sites:
     url: https://wammu.eu/
   - name: bypetula.cz
     url: https://bypetula.cz/
+  - name: darky.cihar.com
+    url: https://darky.cihar.com/
+  - name: svatba.cihar.com
+    url: https://svatba.cihar.com/
+  - name: webmail.cihar.com
+    url: https://webmail.cihar.com/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
