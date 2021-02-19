@@ -1,7 +1,7 @@
 url: https://wammu.eu/
-status: up
-code: 200
-responseTime: 4796
-lastUpdated: 2021-02-19T06:55:38.090Z
+status: down
+code: 502
+responseTime: 5931
+lastUpdated: 2021-02-19T07:18:45.367Z
 startTime: Sat Feb 06 2021 19:18:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
