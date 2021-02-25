@@ -1,6 +1,6 @@
 # Change these first
-owner: nijel
-repo: status
+owner: weblate-status-bot
+repo: nijel-status
 user-agent: weblate-status-bot
 
 # Add your sites here
