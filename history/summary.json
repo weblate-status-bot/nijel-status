@@ -40,7 +40,7 @@
     "url": "https://wammu.eu/",
     "icon": "https://favicons.githubusercontent.com/wammu.eu",
     "slug": "wammu-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 4420,
     "timeDay": 5803,
     "timeWeek": 3983,
-    "timeMonth": 4163,
+    "timeMonth": 4181,
     "timeYear": 4420,
     "dailyMinutesDown": {
       "2021-03-17": 22,
