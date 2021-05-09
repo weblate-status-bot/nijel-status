@@ -22,18 +22,20 @@
     "url": "https://blog.cihar.com/",
     "icon": "https://favicons.githubusercontent.com/blog.cihar.com",
     "slug": "blog-cihar-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 747,
-    "timeDay": 643,
-    "timeWeek": 761,
-    "timeMonth": 782,
-    "timeYear": 747,
-    "dailyMinutesDown": {}
+    "time": 745,
+    "timeDay": 589,
+    "timeWeek": 733,
+    "timeMonth": 774,
+    "timeYear": 745,
+    "dailyMinutesDown": {
+      "2021-05-09": 0
+    }
   },
   {
     "name": "wammu.eu",
@@ -49,7 +51,7 @@
     "time": 4364,
     "timeDay": 5084,
     "timeWeek": 4753,
-    "timeMonth": 4272,
+    "timeMonth": 4292,
     "timeYear": 4364,
     "dailyMinutesDown": {
       "2021-03-17": 22,
