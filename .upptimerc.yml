@@ -19,6 +19,8 @@ sites:
     url: https://svatba.cihar.com/
   - name: webmail.cihar.com
     url: https://webmail.cihar.com/
+  - name: apartmancvikov.cz
+    url: https://apartmancvikov.cz/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
