@@ -4,9 +4,9 @@
     "url": "https://cihar.com/",
     "icon": "https://favicons.githubusercontent.com/cihar.com",
     "slug": "cihar-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 512,
     "timeMonth": 522,
     "timeYear": 513,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 0
+    }
   },
   {
     "name": "blog.cihar.com",
     "url": "https://blog.cihar.com/",
     "icon": "https://favicons.githubusercontent.com/blog.cihar.com",
     "slug": "blog-cihar-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 754,
     "timeYear": 754,
     "dailyMinutesDown": {
+      "2022-01-27": 0,
       "2021-05-09": 21
     }
   },
@@ -42,9 +45,9 @@
     "url": "https://wammu.eu/",
     "icon": "https://favicons.githubusercontent.com/wammu.eu",
     "slug": "wammu-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
@@ -54,6 +57,7 @@
     "timeMonth": 2421,
     "timeYear": 4235,
     "dailyMinutesDown": {
+      "2022-01-27": 0,
       "2021-03-17": 22,
       "2021-03-13": 21,
       "2021-03-11": 59,
@@ -85,9 +89,9 @@
     "url": "https://bypetula.cz/",
     "icon": "https://favicons.githubusercontent.com/bypetula.cz",
     "slug": "bypetula-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -96,16 +100,18 @@
     "timeWeek": 1070,
     "timeMonth": 937,
     "timeYear": 974,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 0
+    }
   },
   {
     "name": "darky.cihar.com",
     "url": "https://darky.cihar.com/",
     "icon": "https://favicons.githubusercontent.com/darky.cihar.com",
     "slug": "darky-cihar-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -114,16 +120,18 @@
     "timeWeek": 566,
     "timeMonth": 556,
     "timeYear": 548,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 0
+    }
   },
   {
     "name": "svatba.cihar.com",
     "url": "https://svatba.cihar.com/",
     "icon": "https://favicons.githubusercontent.com/svatba.cihar.com",
     "slug": "svatba-cihar-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -132,16 +140,18 @@
     "timeWeek": 399,
     "timeMonth": 405,
     "timeYear": 403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 0
+    }
   },
   {
     "name": "webmail.cihar.com",
     "url": "https://webmail.cihar.com/",
     "icon": "https://favicons.githubusercontent.com/webmail.cihar.com",
     "slug": "webmail-cihar-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -150,16 +160,18 @@
     "timeWeek": 638,
     "timeMonth": 520,
     "timeYear": 570,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 0
+    }
   },
   {
     "name": "apartmancvikov.cz",
     "url": "https://apartmancvikov.cz/",
     "icon": "https://favicons.githubusercontent.com/apartmancvikov.cz",
     "slug": "apartmancvikov-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -168,6 +180,8 @@
     "timeWeek": 614,
     "timeMonth": 631,
     "timeYear": 631,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-27": 0
+    }
   }
 ]
