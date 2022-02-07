@@ -21,6 +21,15 @@ sites:
     url: https://webmail.cihar.com/
   - name: apartmancvikov.cz
     url: https://apartmancvikov.cz/
+  - name: SMTP
+    check: "tcp-ping"
+    url: mail.cihar.com
+    port: 25
+  - name: IMAP
+    check: "tcp-ping"
+    url: mail.cihar.com
+    port: 993
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
