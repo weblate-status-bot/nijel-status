@@ -4,19 +4,19 @@
     "url": "https://cihar.com/",
     "icon": "https://favicons.githubusercontent.com/cihar.com",
     "slug": "cihar-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 519,
-    "timeDay": 505,
-    "timeWeek": 526,
-    "timeMonth": 533,
+    "timeDay": 485,
+    "timeWeek": 516,
+    "timeMonth": 531,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2022-06-28": 1
+      "2022-06-28": 15
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://blog.cihar.com/",
     "icon": "https://favicons.githubusercontent.com/blog.cihar.com",
     "slug": "blog-cihar-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 755,
-    "timeDay": 600,
-    "timeWeek": 727,
-    "timeMonth": 766,
+    "timeDay": 636,
+    "timeWeek": 725,
+    "timeMonth": 764,
     "timeYear": 753,
     "dailyMinutesDown": {
-      "2022-06-28": 1
+      "2022-06-28": 15
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://wammu.eu/",
     "icon": "https://favicons.githubusercontent.com/wammu.eu",
     "slug": "wammu-eu",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 4249,
-    "timeDay": 4673,
-    "timeWeek": 4293,
-    "timeMonth": 4750,
-    "timeYear": 4211,
+    "time": 4251,
+    "timeDay": 4859,
+    "timeWeek": 4397,
+    "timeMonth": 4764,
+    "timeYear": 4214,
     "dailyMinutesDown": {
-      "2022-06-28": 1
+      "2022-06-28": 15
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://bypetula.cz/",
     "icon": "https://favicons.githubusercontent.com/bypetula.cz",
     "slug": "bypetula-cz",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1057,
-    "timeDay": 877,
-    "timeWeek": 790,
-    "timeMonth": 1590,
+    "timeDay": 926,
+    "timeWeek": 816,
+    "timeMonth": 1573,
     "timeYear": 1066,
     "dailyMinutesDown": {
-      "2022-06-28": 1
+      "2022-06-28": 15
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://darky.cihar.com/",
     "icon": "https://favicons.githubusercontent.com/darky.cihar.com",
     "slug": "darky-cihar-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 552,
-    "timeDay": 522,
-    "timeWeek": 559,
-    "timeMonth": 566,
+    "timeDay": 503,
+    "timeWeek": 548,
+    "timeMonth": 563,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2022-06-28": 0
+      "2022-06-28": 15
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://svatba.cihar.com/",
     "icon": "https://favicons.githubusercontent.com/svatba.cihar.com",
     "slug": "svatba-cihar-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 406,
-    "timeDay": 443,
-    "timeWeek": 422,
-    "timeMonth": 423,
-    "timeYear": 409,
+    "timeDay": 407,
+    "timeWeek": 412,
+    "timeMonth": 421,
+    "timeYear": 408,
     "dailyMinutesDown": {
-      "2022-06-28": 0
+      "2022-06-28": 15
     }
   },
   {
@@ -142,19 +142,19 @@
     "url": "https://apartmancvikov.cz/",
     "icon": "https://favicons.githubusercontent.com/apartmancvikov.cz",
     "slug": "apartmancvikov-cz",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 642,
-    "timeDay": 714,
-    "timeWeek": 728,
-    "timeMonth": 713,
+    "timeDay": 674,
+    "timeWeek": 713,
+    "timeMonth": 709,
     "timeYear": 643,
     "dailyMinutesDown": {
-      "2022-06-28": 1
+      "2022-06-28": 15
     }
   },
   {
