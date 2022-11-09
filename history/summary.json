@@ -22,18 +22,20 @@
     "url": "https://blog.cihar.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blog.cihar.com.ico",
     "slug": "blog-cihar-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 764,
-    "timeDay": 841,
-    "timeWeek": 730,
-    "timeMonth": 768,
+    "timeDay": 682,
+    "timeWeek": 704,
+    "timeMonth": 761,
     "timeYear": 768,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-09": 0
+    }
   },
   {
     "name": "wammu.eu",
