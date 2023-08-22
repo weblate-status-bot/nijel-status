@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cihar.com.ico",
     "slug": "cihar-com",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 550,
-    "timeDay": 567,
-    "timeWeek": 600,
-    "timeMonth": 575,
-    "timeYear": 555,
+    "time": 551,
+    "timeDay": 727,
+    "timeWeek": 639,
+    "timeMonth": 580,
+    "timeYear": 556,
     "dailyMinutesDown": {
       "2023-01-24": 67
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 777,
-    "timeDay": 864,
-    "timeWeek": 796,
-    "timeMonth": 776,
+    "time": 778,
+    "timeDay": 883,
+    "timeWeek": 828,
+    "timeMonth": 778,
     "timeYear": 778,
     "dailyMinutesDown": {
       "2023-01-24": 67,
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 5317,
-    "timeDay": 4843,
-    "timeWeek": 5992,
-    "timeMonth": 5426,
-    "timeYear": 5542,
+    "time": 5322,
+    "timeDay": 5762,
+    "timeWeek": 6087,
+    "timeMonth": 5463,
+    "timeYear": 5545,
     "dailyMinutesDown": {
       "2023-01-24": 67
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1041,
-    "timeDay": 834,
-    "timeWeek": 834,
-    "timeMonth": 938,
-    "timeYear": 966,
+    "time": 1035,
+    "timeDay": 1006,
+    "timeWeek": 891,
+    "timeMonth": 946,
+    "timeYear": 967,
     "dailyMinutesDown": {
       "2023-01-24": 69
     }
@@ -92,10 +92,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 585,
-    "timeDay": 626,
-    "timeWeek": 644,
-    "timeMonth": 612,
-    "timeYear": 591,
+    "timeDay": 768,
+    "timeWeek": 683,
+    "timeMonth": 618,
+    "timeYear": 592,
     "dailyMinutesDown": {
       "2023-01-24": 67
     }
@@ -111,10 +111,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 434,
-    "timeDay": 456,
-    "timeWeek": 471,
-    "timeMonth": 456,
+    "time": 435,
+    "timeDay": 530,
+    "timeWeek": 492,
+    "timeMonth": 459,
     "timeYear": 439,
     "dailyMinutesDown": {
       "2023-01-24": 67
@@ -131,10 +131,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 525,
-    "timeDay": 512,
-    "timeWeek": 521,
-    "timeMonth": 505,
+    "time": 526,
+    "timeDay": 695,
+    "timeWeek": 567,
+    "timeMonth": 510,
     "timeYear": 544,
     "dailyMinutesDown": {}
   },
@@ -150,10 +150,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 707,
-    "timeDay": 764,
-    "timeWeek": 749,
-    "timeMonth": 705,
-    "timeYear": 706,
+    "timeDay": 871,
+    "timeWeek": 796,
+    "timeMonth": 711,
+    "timeYear": 707,
     "dailyMinutesDown": {
       "2023-05-17": 26,
       "2023-01-24": 67
@@ -171,9 +171,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 130,
-    "timeDay": 140,
-    "timeWeek": 145,
-    "timeMonth": 139,
+    "timeDay": 166,
+    "timeWeek": 155,
+    "timeMonth": 140,
     "timeYear": 132,
     "dailyMinutesDown": {}
   },
@@ -189,9 +189,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 130,
-    "timeWeek": 137,
-    "timeMonth": 138,
+    "timeDay": 165,
+    "timeWeek": 146,
+    "timeMonth": 140,
     "timeYear": 126,
     "dailyMinutesDown": {}
   }
