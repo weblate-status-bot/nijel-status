@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 551,
-    "timeDay": 454,
-    "timeWeek": 595,
-    "timeMonth": 584,
-    "timeYear": 556,
+    "timeDay": 695,
+    "timeWeek": 597,
+    "timeMonth": 587,
+    "timeYear": 557,
     "dailyMinutesDown": {
       "2023-01-24": 67
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 778,
-    "timeDay": 667,
+    "time": 777,
+    "timeDay": 893,
     "timeWeek": 801,
-    "timeMonth": 781,
+    "timeMonth": 784,
     "timeYear": 778,
     "dailyMinutesDown": {
       "2023-01-24": 67,
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 5322,
-    "timeDay": 540,
-    "timeWeek": 4981,
-    "timeMonth": 5507,
-    "timeYear": 5537,
+    "time": 5324,
+    "timeDay": 5371,
+    "timeWeek": 5102,
+    "timeMonth": 5498,
+    "timeYear": 5526,
     "dailyMinutesDown": {
       "2023-01-24": 67
     }
@@ -72,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1028,
-    "timeDay": 610,
-    "timeWeek": 836,
-    "timeMonth": 953,
-    "timeYear": 967,
+    "timeDay": 978,
+    "timeWeek": 832,
+    "timeMonth": 959,
+    "timeYear": 968,
     "dailyMinutesDown": {
       "2023-01-24": 69
     }
@@ -86,16 +86,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/darky.cihar.com.ico",
     "slug": "darky-cihar-com",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 586,
-    "timeDay": 505,
-    "timeWeek": 640,
-    "timeMonth": 624,
-    "timeYear": 592,
+    "timeDay": 770,
+    "timeWeek": 641,
+    "timeMonth": 628,
+    "timeYear": 593,
     "dailyMinutesDown": {
       "2023-01-24": 67
     }
@@ -106,16 +106,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/svatba.cihar.com.ico",
     "slug": "svatba-cihar-com",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 435,
-    "timeDay": 358,
+    "timeDay": 604,
     "timeWeek": 475,
-    "timeMonth": 462,
-    "timeYear": 439,
+    "timeMonth": 467,
+    "timeYear": 440,
     "dailyMinutesDown": {
       "2023-01-24": 67
     }
@@ -132,9 +132,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 526,
-    "timeDay": 420,
+    "timeDay": 593,
     "timeWeek": 521,
-    "timeMonth": 511,
+    "timeMonth": 513,
     "timeYear": 545,
     "dailyMinutesDown": {}
   },
@@ -150,9 +150,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 707,
-    "timeDay": 524,
-    "timeWeek": 763,
-    "timeMonth": 721,
+    "timeDay": 843,
+    "timeWeek": 759,
+    "timeMonth": 726,
     "timeYear": 707,
     "dailyMinutesDown": {
       "2023-05-17": 26,
@@ -171,10 +171,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
-    "timeDay": 112,
-    "timeWeek": 143,
-    "timeMonth": 141,
-    "timeYear": 132,
+    "timeDay": 166,
+    "timeWeek": 142,
+    "timeMonth": 142,
+    "timeYear": 133,
     "dailyMinutesDown": {}
   },
   {
@@ -188,10 +188,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 124,
-    "timeDay": 100,
+    "time": 125,
+    "timeDay": 165,
     "timeWeek": 137,
-    "timeMonth": 141,
+    "timeMonth": 142,
     "timeYear": 126,
     "dailyMinutesDown": {}
   }
