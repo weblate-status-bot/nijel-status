@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cihar.com.ico",
     "slug": "cihar-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 554,
     "timeDay": 573,
     "timeWeek": 580,
     "timeMonth": 596,
-    "timeYear": 558,
+    "timeYear": 557,
     "dailyMinutesDown": {
-      "2023-10-07": 8,
       "2023-01-24": 67
     }
   },
@@ -27,9 +26,9 @@
     "slug": "blog-cihar-com",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 779,
     "timeDay": 815,
@@ -37,7 +36,6 @@
     "timeMonth": 798,
     "timeYear": 775,
     "dailyMinutesDown": {
-      "2023-10-07": 8,
       "2023-01-24": 67,
       "2022-11-09": 51
     }
@@ -49,17 +47,16 @@
     "slug": "wammu-eu",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 5455,
     "timeDay": 4710,
     "timeWeek": 5513,
     "timeMonth": 5801,
-    "timeYear": 5611,
+    "timeYear": 5610,
     "dailyMinutesDown": {
-      "2023-10-07": 8,
       "2023-01-24": 67
     }
   },
@@ -69,10 +66,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/bypetula.cz.ico",
     "slug": "bypetula-cz",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1007,
     "timeDay": 751,
@@ -80,7 +77,6 @@
     "timeMonth": 804,
     "timeYear": 903,
     "dailyMinutesDown": {
-      "2023-10-07": 8,
       "2023-01-24": 69
     }
   },
@@ -90,10 +86,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/darky.cihar.com.ico",
     "slug": "darky-cihar-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 588,
     "timeDay": 579,
@@ -101,7 +97,6 @@
     "timeMonth": 608,
     "timeYear": 591,
     "dailyMinutesDown": {
-      "2023-10-07": 7,
       "2023-01-24": 67
     }
   },
@@ -111,10 +106,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/svatba.cihar.com.ico",
     "slug": "svatba-cihar-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 438,
     "timeDay": 449,
@@ -122,7 +117,6 @@
     "timeMonth": 459,
     "timeYear": 440,
     "dailyMinutesDown": {
-      "2023-10-07": 7,
       "2023-01-24": 67
     }
   },
@@ -133,18 +127,16 @@
     "slug": "webmail-cihar-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 528,
     "timeDay": 463,
     "timeWeek": 489,
     "timeMonth": 509,
-    "timeYear": 544,
-    "dailyMinutesDown": {
-      "2023-10-07": 7
-    }
+    "timeYear": 543,
+    "dailyMinutesDown": {}
   },
   {
     "name": "apartmancvikov.cz",
@@ -153,9 +145,9 @@
     "slug": "apartmancvikov-cz",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "95.90%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "96.36%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
     "time": 708,
     "timeDay": 658,
@@ -163,7 +155,7 @@
     "timeMonth": 701,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2023-10-07": 60,
+      "2023-10-07": 53,
       "2023-10-05": 17,
       "2023-05-17": 26,
       "2023-01-24": 67
