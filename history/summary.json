@@ -344,19 +344,19 @@
     "url": "mail.cihar.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.66%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
     "time": 132,
-    "timeDay": 108,
-    "timeWeek": 124,
-    "timeMonth": 132,
+    "timeDay": 105,
+    "timeWeek": 121,
+    "timeMonth": 131,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2023-12-05": 1
+      "2023-12-05": 48
     }
   },
   {
@@ -364,19 +364,19 @@
     "url": "mail.cihar.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imap",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.66%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
     "time": 126,
     "timeDay": 100,
-    "timeWeek": 118,
-    "timeMonth": 118,
+    "timeWeek": 116,
+    "timeMonth": 117,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2023-12-05": 1
+      "2023-12-05": 48
     }
   }
 ]
