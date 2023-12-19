@@ -12,7 +12,7 @@
     "uptimeYear": "99.87%",
     "time": 555,
     "timeDay": 671,
-    "timeWeek": 541,
+    "timeWeek": 551,
     "timeMonth": 546,
     "timeYear": 555,
     "dailyMinutesDown": {
@@ -54,7 +54,7 @@
     "uptimeYear": "99.87%",
     "time": 775,
     "timeDay": 765,
-    "timeWeek": 731,
+    "timeWeek": 737,
     "timeMonth": 748,
     "timeYear": 766,
     "dailyMinutesDown": {
@@ -96,7 +96,7 @@
     "uptimeYear": "99.87%",
     "time": 5520,
     "timeDay": 917,
-    "timeWeek": 5389,
+    "timeWeek": 5395,
     "timeMonth": 5635,
     "timeYear": 5624,
     "dailyMinutesDown": {
@@ -138,7 +138,7 @@
     "uptimeYear": "99.87%",
     "time": 931,
     "timeDay": 896,
-    "timeWeek": 722,
+    "timeWeek": 735,
     "timeMonth": 818,
     "timeYear": 866,
     "dailyMinutesDown": {
@@ -180,7 +180,7 @@
     "uptimeYear": "99.88%",
     "time": 594,
     "timeDay": 720,
-    "timeWeek": 566,
+    "timeWeek": 577,
     "timeMonth": 648,
     "timeYear": 596,
     "dailyMinutesDown": {
@@ -221,7 +221,7 @@
     "uptimeYear": "99.88%",
     "time": 437,
     "timeDay": 488,
-    "timeWeek": 423,
+    "timeWeek": 430,
     "timeMonth": 441,
     "timeYear": 436,
     "dailyMinutesDown": {
@@ -262,7 +262,7 @@
     "uptimeYear": "99.90%",
     "time": 535,
     "timeDay": 510,
-    "timeWeek": 557,
+    "timeWeek": 575,
     "timeMonth": 594,
     "timeYear": 553,
     "dailyMinutesDown": {
@@ -293,18 +293,19 @@
     "url": "https://apartmancvikov.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/apartmancvikov.cz.ico",
     "slug": "apartmancvikov-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "98.46%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "97.40%",
-    "uptimeMonth": "97.06%",
+    "uptimeMonth": "97.14%",
     "uptimeYear": "99.57%",
     "time": 689,
-    "timeDay": 639,
-    "timeWeek": 639,
-    "timeMonth": 648,
+    "timeDay": 656,
+    "timeWeek": 635,
+    "timeMonth": 646,
     "timeYear": 681,
     "dailyMinutesDown": {
+      "2023-12-19": 1,
       "2023-12-18": 22,
       "2023-12-17": 84,
       "2023-12-16": 42,
@@ -359,8 +360,7 @@
       "2023-10-16": 42,
       "2023-10-15": 31,
       "2023-10-14": 23,
-      "2023-10-12": 80,
-      "2023-10-11": 22
+      "2023-10-12": 80
     }
   },
   {
