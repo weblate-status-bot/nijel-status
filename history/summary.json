@@ -13,7 +13,7 @@
     "time": 555,
     "timeDay": 614,
     "timeWeek": 562,
-    "timeMonth": 548,
+    "timeMonth": 549,
     "timeYear": 555,
     "dailyMinutesDown": {
       "2023-12-17": 25,
@@ -97,7 +97,7 @@
     "time": 5531,
     "timeDay": 8587,
     "timeWeek": 5719,
-    "timeMonth": 5718,
+    "timeMonth": 5737,
     "timeYear": 5637,
     "dailyMinutesDown": {
       "2023-12-17": 24,
@@ -139,7 +139,7 @@
     "time": 925,
     "timeDay": 823,
     "timeWeek": 748,
-    "timeMonth": 820,
+    "timeMonth": 823,
     "timeYear": 865,
     "dailyMinutesDown": {
       "2023-12-17": 24,
@@ -181,7 +181,7 @@
     "time": 595,
     "timeDay": 625,
     "timeWeek": 581,
-    "timeMonth": 649,
+    "timeMonth": 651,
     "timeYear": 596,
     "dailyMinutesDown": {
       "2023-12-17": 24,
@@ -222,7 +222,7 @@
     "time": 438,
     "timeDay": 495,
     "timeWeek": 435,
-    "timeMonth": 442,
+    "timeMonth": 443,
     "timeYear": 435,
     "dailyMinutesDown": {
       "2023-12-17": 23,
@@ -263,7 +263,7 @@
     "time": 536,
     "timeDay": 529,
     "timeWeek": 535,
-    "timeMonth": 594,
+    "timeMonth": 597,
     "timeYear": 550,
     "dailyMinutesDown": {
       "2023-12-17": 23,
@@ -293,18 +293,19 @@
     "url": "https://apartmancvikov.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/apartmancvikov.cz.ico",
     "slug": "apartmancvikov-cz",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "97.55%",
     "uptimeMonth": "97.25%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 689,
     "timeDay": 648,
     "timeWeek": 626,
     "timeMonth": 646,
     "timeYear": 680,
     "dailyMinutesDown": {
+      "2023-12-21": 1,
       "2023-12-19": 53,
       "2023-12-18": 22,
       "2023-12-17": 84,
@@ -359,8 +360,7 @@
       "2023-10-18": 106,
       "2023-10-16": 42,
       "2023-10-15": 31,
-      "2023-10-14": 23,
-      "2023-10-12": 59
+      "2023-10-14": 23
     }
   },
   {
