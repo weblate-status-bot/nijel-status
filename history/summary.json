@@ -12,7 +12,7 @@
     "uptimeYear": "99.86%",
     "time": 555,
     "timeDay": 497,
-    "timeWeek": 556,
+    "timeWeek": 562,
     "timeMonth": 545,
     "timeYear": 555,
     "dailyMinutesDown": {
@@ -55,7 +55,7 @@
     "uptimeYear": "99.87%",
     "time": 775,
     "timeDay": 709,
-    "timeWeek": 749,
+    "timeWeek": 752,
     "timeMonth": 747,
     "timeYear": 766,
     "dailyMinutesDown": {
@@ -98,7 +98,7 @@
     "uptimeYear": "99.87%",
     "time": 5546,
     "timeDay": 6565,
-    "timeWeek": 5908,
+    "timeWeek": 5944,
     "timeMonth": 5768,
     "timeYear": 5643,
     "dailyMinutesDown": {
@@ -141,7 +141,7 @@
     "uptimeYear": "99.87%",
     "time": 925,
     "timeDay": 652,
-    "timeWeek": 744,
+    "timeWeek": 757,
     "timeMonth": 816,
     "timeYear": 865,
     "dailyMinutesDown": {
@@ -184,7 +184,7 @@
     "uptimeYear": "99.87%",
     "time": 595,
     "timeDay": 543,
-    "timeWeek": 585,
+    "timeWeek": 591,
     "timeMonth": 647,
     "timeYear": 596,
     "dailyMinutesDown": {
@@ -226,7 +226,7 @@
     "uptimeYear": "99.88%",
     "time": 437,
     "timeDay": 368,
-    "timeWeek": 433,
+    "timeWeek": 436,
     "timeMonth": 440,
     "timeYear": 435,
     "dailyMinutesDown": {
@@ -268,7 +268,7 @@
     "uptimeYear": "99.90%",
     "time": 536,
     "timeDay": 506,
-    "timeWeek": 543,
+    "timeWeek": 558,
     "timeMonth": 591,
     "timeYear": 550,
     "dailyMinutesDown": {
@@ -300,16 +300,16 @@
     "url": "https://apartmancvikov.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/apartmancvikov.cz.ico",
     "slug": "apartmancvikov-cz",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "93.73%",
-    "uptimeWeek": "96.48%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "95.87%",
+    "uptimeWeek": "96.73%",
     "uptimeMonth": "97.01%",
     "uptimeYear": "99.56%",
     "time": 688,
-    "timeDay": 610,
-    "timeWeek": 628,
-    "timeMonth": 643,
+    "timeDay": 626,
+    "timeWeek": 639,
+    "timeMonth": 644,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2023-12-22": 35,
@@ -366,7 +366,7 @@
       "2023-10-20": 21,
       "2023-10-19": 16,
       "2023-10-18": 106,
-      "2023-10-16": 42
+      "2023-10-16": 19
     }
   },
   {
