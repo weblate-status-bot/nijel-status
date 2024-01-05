@@ -328,12 +328,12 @@
     "url": "https://apartmancvikov.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/apartmancvikov.cz.ico",
     "slug": "apartmancvikov-cz",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "98.44%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "98.42%",
     "uptimeWeek": "99.06%",
     "uptimeMonth": "97.65%",
-    "uptimeYear": "99.55%",
+    "uptimeYear": "99.56%",
     "time": 684,
     "timeDay": 646,
     "timeWeek": 670,
@@ -397,8 +397,7 @@
       "2023-10-30": 70,
       "2023-10-29": 18,
       "2023-10-27": 39,
-      "2023-10-26": 34,
-      "2023-10-25": 20
+      "2023-10-26": 34
     }
   },
   {
@@ -410,12 +409,12 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 132,
     "timeDay": 97,
     "timeWeek": 132,
-    "timeMonth": 122,
+    "timeMonth": 123,
     "timeYear": 132,
     "dailyMinutesDown": {
       "2023-12-05": 48
@@ -430,12 +429,12 @@
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 126,
     "timeDay": 97,
     "timeWeek": 131,
-    "timeMonth": 120,
+    "timeMonth": 121,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2023-12-05": 48
