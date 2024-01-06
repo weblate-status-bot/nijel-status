@@ -12,7 +12,7 @@
     "uptimeYear": "99.84%",
     "time": 556,
     "timeDay": 454,
-    "timeWeek": 550,
+    "timeWeek": 542,
     "timeMonth": 535,
     "timeYear": 555,
     "dailyMinutesDown": {
@@ -60,7 +60,7 @@
     "uptimeYear": "99.84%",
     "time": 772,
     "timeDay": 659,
-    "timeWeek": 735,
+    "timeWeek": 729,
     "timeMonth": 731,
     "timeYear": 763,
     "dailyMinutesDown": {
@@ -108,7 +108,7 @@
     "uptimeYear": "99.84%",
     "time": 5646,
     "timeDay": 5753,
-    "timeWeek": 6356,
+    "timeWeek": 6388,
     "timeMonth": 6176,
     "timeYear": 5701,
     "dailyMinutesDown": {
@@ -156,7 +156,7 @@
     "uptimeYear": "99.84%",
     "time": 893,
     "timeDay": 578,
-    "timeWeek": 753,
+    "timeWeek": 741,
     "timeMonth": 809,
     "timeYear": 859,
     "dailyMinutesDown": {
@@ -204,7 +204,7 @@
     "uptimeYear": "99.85%",
     "time": 596,
     "timeDay": 466,
-    "timeWeek": 587,
+    "timeWeek": 579,
     "timeMonth": 652,
     "timeYear": 595,
     "dailyMinutesDown": {
@@ -251,7 +251,7 @@
     "uptimeYear": "99.85%",
     "time": 438,
     "timeDay": 347,
-    "timeWeek": 436,
+    "timeWeek": 428,
     "timeMonth": 433,
     "timeYear": 435,
     "dailyMinutesDown": {
@@ -298,7 +298,7 @@
     "uptimeYear": "99.88%",
     "time": 541,
     "timeDay": 474,
-    "timeWeek": 565,
+    "timeWeek": 552,
     "timeMonth": 536,
     "timeYear": 548,
     "dailyMinutesDown": {
@@ -335,15 +335,15 @@
     "url": "https://apartmancvikov.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/apartmancvikov.cz.ico",
     "slug": "apartmancvikov-cz",
-    "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "94.40%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "97.35%",
     "uptimeWeek": "98.48%",
     "uptimeMonth": "97.65%",
-    "uptimeYear": "99.55%",
-    "time": 684,
-    "timeDay": 595,
-    "timeWeek": 668,
+    "uptimeYear": "99.56%",
+    "time": 683,
+    "timeDay": 539,
+    "timeWeek": 657,
     "timeMonth": 645,
     "timeYear": 678,
     "dailyMinutesDown": {
@@ -404,7 +404,7 @@
       "2023-10-31": 40,
       "2023-10-30": 70,
       "2023-10-29": 18,
-      "2023-10-27": 39
+      "2023-10-27": 19
     }
   },
   {
