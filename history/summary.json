@@ -337,17 +337,17 @@
     "slug": "apartmancvikov-cz",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "96.59%",
-    "uptimeWeek": "98.18%",
-    "uptimeMonth": "97.58%",
-    "uptimeYear": "99.56%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "97.61%",
+    "uptimeYear": "99.55%",
     "time": 682,
     "timeDay": 534,
     "timeWeek": 649,
     "timeMonth": 643,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2024-01-06": 50,
+      "2024-01-06": 38,
       "2024-01-05": 61,
       "2024-01-03": 21,
       "2024-01-02": 18,
@@ -403,7 +403,8 @@
       "2023-11-02": 19,
       "2023-10-31": 40,
       "2023-10-30": 70,
-      "2023-10-29": 18
+      "2023-10-29": 18,
+      "2023-10-27": 19
     }
   },
   {
