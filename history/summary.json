@@ -342,18 +342,19 @@
     "url": "https://apartmancvikov.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/apartmancvikov.cz.ico",
     "slug": "apartmancvikov-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "98.46%",
+    "uptimeDay": "98.42%",
     "uptimeWeek": "97.86%",
     "uptimeMonth": "97.79%",
     "uptimeYear": "99.56%",
-    "time": 682,
+    "time": 683,
     "timeDay": 651,
     "timeWeek": 636,
     "timeMonth": 640,
     "timeYear": 676,
     "dailyMinutesDown": {
+      "2024-01-14": 1,
       "2024-01-13": 22,
       "2024-01-12": 34,
       "2024-01-11": 46,
@@ -407,7 +408,7 @@
       "2023-11-14": 26,
       "2023-11-13": 18,
       "2023-11-11": 15,
-      "2023-11-10": 54
+      "2023-11-10": 25
     }
   },
   {
