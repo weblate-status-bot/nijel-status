@@ -12,7 +12,7 @@
     "uptimeYear": "99.83%",
     "time": 555,
     "timeDay": 466,
-    "timeWeek": 516,
+    "timeWeek": 522,
     "timeMonth": 534,
     "timeYear": 553,
     "dailyMinutesDown": {
@@ -114,7 +114,7 @@
     "uptimeYear": "99.83%",
     "time": 5725,
     "timeDay": 7008,
-    "timeWeek": 6599,
+    "timeWeek": 6438,
     "timeMonth": 6462,
     "timeYear": 5732,
     "dailyMinutesDown": {
@@ -165,7 +165,7 @@
     "uptimeYear": "99.83%",
     "time": 874,
     "timeDay": 597,
-    "timeWeek": 669,
+    "timeWeek": 675,
     "timeMonth": 722,
     "timeYear": 853,
     "dailyMinutesDown": {
@@ -216,7 +216,7 @@
     "uptimeYear": "99.84%",
     "time": 594,
     "timeDay": 458,
-    "timeWeek": 528,
+    "timeWeek": 533,
     "timeMonth": 563,
     "timeYear": 593,
     "dailyMinutesDown": {
@@ -316,7 +316,7 @@
     "uptimeYear": "99.86%",
     "time": 545,
     "timeDay": 626,
-    "timeWeek": 612,
+    "timeWeek": 629,
     "timeMonth": 549,
     "timeYear": 549,
     "dailyMinutesDown": {
@@ -356,19 +356,19 @@
     "url": "https://apartmancvikov.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/apartmancvikov.cz.ico",
     "slug": "apartmancvikov-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "92.81%",
+    "uptimeDay": "92.77%",
     "uptimeWeek": "96.61%",
-    "uptimeMonth": "97.39%",
+    "uptimeMonth": "97.43%",
     "uptimeYear": "99.56%",
     "time": 679,
-    "timeDay": 611,
-    "timeWeek": 624,
+    "timeDay": 604,
+    "timeWeek": 626,
     "timeMonth": 640,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2024-01-16": 63,
+      "2024-01-16": 64,
       "2024-01-15": 58,
       "2024-01-14": 118,
       "2024-01-13": 22,
@@ -416,8 +416,7 @@
       "2023-11-22": 32,
       "2023-11-21": 26,
       "2023-11-20": 77,
-      "2023-11-19": 59,
-      "2023-11-18": 19
+      "2023-11-19": 59
     }
   },
   {
