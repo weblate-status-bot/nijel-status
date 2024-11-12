@@ -61,7 +61,7 @@
     "timeDay": 715,
     "timeWeek": 756,
     "timeMonth": 748,
-    "timeYear": 753,
+    "timeYear": 752,
     "dailyMinutesDown": {
       "2024-01-29": 23,
       "2024-01-20": 19,
@@ -108,7 +108,7 @@
     "timeDay": 491,
     "timeWeek": 457,
     "timeMonth": 468,
-    "timeYear": 2545,
+    "timeYear": 2532,
     "dailyMinutesDown": {
       "2024-01-25": 607,
       "2024-01-24": 851,
@@ -156,7 +156,7 @@
     "timeDay": 492,
     "timeWeek": 589,
     "timeMonth": 569,
-    "timeYear": 681,
+    "timeYear": 680,
     "dailyMinutesDown": {
       "2024-06-10": 139,
       "2024-01-20": 19,
@@ -298,7 +298,7 @@
     "timeDay": 3362,
     "timeWeek": 1625,
     "timeMonth": 1230,
-    "timeYear": 832,
+    "timeYear": 833,
     "dailyMinutesDown": {
       "2024-11-03": 86,
       "2024-09-22": 28,
@@ -345,18 +345,19 @@
     "url": "https://apartmancvikov.cz/",
     "icon": "https://icons.duckduckgo.com/ip3/apartmancvikov.cz.ico",
     "slug": "apartmancvikov-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.55%",
     "time": 697,
     "timeDay": 625,
     "timeWeek": 677,
     "timeMonth": 685,
     "timeYear": 698,
     "dailyMinutesDown": {
+      "2024-11-12": 0,
       "2024-09-16": 15,
       "2024-02-21": 26,
       "2024-01-24": 40,
@@ -409,7 +410,7 @@
       "2023-11-26": 120,
       "2023-11-25": 97,
       "2023-11-24": 19,
-      "2023-11-23": 80
+      "2023-11-23": 61
     }
   },
   {
