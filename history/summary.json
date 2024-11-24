@@ -6,14 +6,14 @@
     "slug": "cihar-com",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "94.66%",
+    "uptimeDay": "95.81%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.85%",
-    "time": 556,
-    "timeDay": 617,
-    "timeWeek": 624,
-    "timeMonth": 560,
+    "time": 555,
+    "timeDay": 575,
+    "timeWeek": 602,
+    "timeMonth": 561,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2024-11-23": 60,
@@ -40,8 +40,7 @@
       "2023-11-29": 31,
       "2023-11-28": 17,
       "2023-11-27": 34,
-      "2023-11-26": 106,
-      "2023-11-25": 2
+      "2023-11-26": 106
     }
   },
   {
@@ -51,15 +50,15 @@
     "slug": "blog-cihar-com",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "94.73%",
+    "uptimeDay": "95.86%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.85%",
     "time": 759,
-    "timeDay": 828,
-    "timeWeek": 824,
-    "timeMonth": 771,
-    "timeYear": 754,
+    "timeDay": 782,
+    "timeWeek": 805,
+    "timeMonth": 773,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2024-11-23": 60,
       "2024-11-22": 16,
@@ -85,8 +84,7 @@
       "2023-11-29": 30,
       "2023-11-28": 17,
       "2023-11-27": 34,
-      "2023-11-26": 106,
-      "2023-11-25": 2
+      "2023-11-26": 106
     }
   },
   {
@@ -96,15 +94,15 @@
     "slug": "wammu-eu",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "94.80%",
+    "uptimeDay": "95.91%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.58%",
-    "time": 3038,
-    "timeDay": 624,
-    "timeWeek": 560,
-    "timeMonth": 496,
-    "timeYear": 2320,
+    "time": 3030,
+    "timeDay": 561,
+    "timeWeek": 555,
+    "timeMonth": 499,
+    "timeYear": 2303,
     "dailyMinutesDown": {
       "2024-11-23": 60,
       "2024-11-22": 16,
@@ -133,8 +131,7 @@
       "2023-11-29": 30,
       "2023-11-28": 17,
       "2023-11-27": 34,
-      "2023-11-26": 105,
-      "2023-11-25": 2
+      "2023-11-26": 105
     }
   },
   {
@@ -144,14 +141,14 @@
     "slug": "bypetula-cz",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "94.87%",
+    "uptimeDay": "95.97%",
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 695,
-    "timeDay": 712,
-    "timeWeek": 685,
-    "timeMonth": 607,
+    "time": 694,
+    "timeDay": 662,
+    "timeWeek": 676,
+    "timeMonth": 611,
     "timeYear": 678,
     "dailyMinutesDown": {
       "2024-11-23": 57,
@@ -178,8 +175,7 @@
       "2023-11-29": 30,
       "2023-11-28": 17,
       "2023-11-27": 33,
-      "2023-11-26": 105,
-      "2023-11-25": 1
+      "2023-11-26": 105
     }
   },
   {
@@ -189,15 +185,15 @@
     "slug": "darky-cihar-com",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "94.94%",
+    "uptimeDay": "96.02%",
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.86%",
     "time": 590,
-    "timeDay": 672,
-    "timeWeek": 663,
+    "timeDay": 619,
+    "timeWeek": 638,
     "timeMonth": 590,
-    "timeYear": 592,
+    "timeYear": 593,
     "dailyMinutesDown": {
       "2024-11-23": 57,
       "2024-11-22": 16,
@@ -223,8 +219,7 @@
       "2023-11-29": 30,
       "2023-11-28": 16,
       "2023-11-27": 32,
-      "2023-11-26": 105,
-      "2023-11-25": 1
+      "2023-11-26": 105
     }
   },
   {
@@ -234,14 +229,14 @@
     "slug": "svatba-cihar-com",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "95.01%",
+    "uptimeDay": "96.07%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.86%",
-    "time": 447,
-    "timeDay": 483,
-    "timeWeek": 480,
-    "timeMonth": 459,
+    "time": 448,
+    "timeDay": 448,
+    "timeWeek": 469,
+    "timeMonth": 460,
     "timeYear": 451,
     "dailyMinutesDown": {
       "2024-11-23": 57,
@@ -269,8 +264,7 @@
       "2023-11-29": 30,
       "2023-11-28": 16,
       "2023-11-27": 32,
-      "2023-11-26": 105,
-      "2023-11-25": 1
+      "2023-11-26": 105
     }
   },
   {
@@ -280,15 +274,15 @@
     "slug": "webmail-cihar-com",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "95.07%",
+    "uptimeDay": "96.12%",
     "uptimeWeek": "99.11%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.80%",
     "time": 793,
-    "timeDay": 1155,
-    "timeWeek": 944,
-    "timeMonth": 1171,
-    "timeYear": 852,
+    "timeDay": 1119,
+    "timeWeek": 951,
+    "timeMonth": 1179,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2024-11-23": 57,
       "2024-11-22": 15,
@@ -325,8 +319,7 @@
       "2023-11-29": 29,
       "2023-11-28": 16,
       "2023-11-27": 17,
-      "2023-11-26": 104,
-      "2023-11-25": 1
+      "2023-11-26": 104
     }
   },
   {
@@ -340,11 +333,11 @@
     "uptimeWeek": "91.54%",
     "uptimeMonth": "98.01%",
     "uptimeYear": "99.46%",
-    "time": 697,
-    "timeDay": 852,
+    "time": 698,
+    "timeDay": 785,
     "timeWeek": 714,
-    "timeMonth": 689,
-    "timeYear": 702,
+    "timeMonth": 693,
+    "timeYear": 703,
     "dailyMinutesDown": {
       "2024-11-23": 54,
       "2024-11-22": 345,
@@ -411,8 +404,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 126,
-    "timeDay": 167,
-    "timeWeek": 141,
+    "timeDay": 117,
+    "timeWeek": 134,
     "timeMonth": 119,
     "timeYear": 122,
     "dailyMinutesDown": {
@@ -434,9 +427,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 124,
-    "timeDay": 167,
-    "timeWeek": 141,
-    "timeMonth": 118,
+    "timeDay": 117,
+    "timeWeek": 134,
+    "timeMonth": 119,
     "timeYear": 122,
     "dailyMinutesDown": {
       "2023-12-05": 48
