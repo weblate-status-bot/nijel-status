@@ -112,18 +112,20 @@
     "url": "https://webmail.cihar.com/",
     "icon": "https://icons.duckduckgo.com/ip3/webmail.cihar.com.ico",
     "slug": "webmail-cihar-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 611,
-    "timeDay": 414,
-    "timeWeek": 646,
-    "timeMonth": 728,
-    "timeYear": 620,
-    "dailyMinutesDown": {}
+    "timeDay": 363,
+    "timeWeek": 604,
+    "timeMonth": 715,
+    "timeYear": 619,
+    "dailyMinutesDown": {
+      "2026-10-21": 0
+    }
   },
   {
     "name": "apartmancvikov.cz",
