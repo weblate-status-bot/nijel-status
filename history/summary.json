@@ -14,7 +14,7 @@
     "timeDay": 619,
     "timeWeek": 585,
     "timeMonth": 590,
-    "timeYear": 578,
+    "timeYear": 579,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 858,
     "timeWeek": 674,
     "timeMonth": 644,
-    "timeYear": 627,
+    "timeYear": 628,
     "dailyMinutesDown": {}
   },
   {
@@ -142,7 +142,7 @@
     "timeDay": 1478,
     "timeWeek": 1226,
     "timeMonth": 1214,
-    "timeYear": 941,
+    "timeYear": 942,
     "dailyMinutesDown": {}
   },
   {
@@ -150,20 +150,21 @@
     "url": "mail.cihar.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "81.79%",
+    "uptimeWeek": "96.74%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.94%",
     "time": 124,
-    "timeDay": 149,
-    "timeWeek": 133,
-    "timeMonth": 131,
+    "timeDay": 156,
+    "timeWeek": 137,
+    "timeMonth": 132,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2026-11-02": 67,
-      "2026-11-04": 1
+      "2026-11-05": 85,
+      "2026-11-04": 177
     }
   },
   {
