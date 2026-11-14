@@ -150,9 +150,9 @@
     "url": "mail.cihar.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "37.91%",
+    "uptimeDay": "54.49%",
     "uptimeWeek": "91.13%",
     "uptimeMonth": "97.21%",
     "uptimeYear": "99.77%",
@@ -165,7 +165,7 @@
       "2026-11-02": 67,
       "2026-11-05": 85,
       "2026-11-04": 177,
-      "2026-11-14": 581,
+      "2026-11-14": 582,
       "2026-11-13": 314
     }
   },
