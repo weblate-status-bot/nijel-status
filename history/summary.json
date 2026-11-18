@@ -13,8 +13,8 @@
     "time": 579,
     "timeDay": 725,
     "timeWeek": 592,
-    "timeMonth": 574,
-    "timeYear": 578,
+    "timeMonth": 575,
+    "timeYear": 577,
     "dailyMinutesDown": {}
   },
   {
@@ -31,7 +31,7 @@
     "time": 782,
     "timeDay": 855,
     "timeWeek": 815,
-    "timeMonth": 809,
+    "timeMonth": 810,
     "timeYear": 775,
     "dailyMinutesDown": {}
   },
@@ -49,8 +49,8 @@
     "time": 625,
     "timeDay": 733,
     "timeWeek": 634,
-    "timeMonth": 627,
-    "timeYear": 627,
+    "timeMonth": 628,
+    "timeYear": 626,
     "dailyMinutesDown": {}
   },
   {
@@ -67,7 +67,7 @@
     "time": 646,
     "timeDay": 707,
     "timeWeek": 606,
-    "timeMonth": 646,
+    "timeMonth": 643,
     "timeYear": 639,
     "dailyMinutesDown": {}
   },
@@ -85,8 +85,8 @@
     "time": 711,
     "timeDay": 1118,
     "timeWeek": 906,
-    "timeMonth": 882,
-    "timeYear": 747,
+    "timeMonth": 883,
+    "timeYear": 748,
     "dailyMinutesDown": {}
   },
   {
@@ -103,7 +103,7 @@
     "time": 460,
     "timeDay": 551,
     "timeWeek": 457,
-    "timeMonth": 452,
+    "timeMonth": 453,
     "timeYear": 458,
     "dailyMinutesDown": {}
   },
@@ -121,8 +121,8 @@
     "time": 610,
     "timeDay": 682,
     "timeWeek": 651,
-    "timeMonth": 577,
-    "timeYear": 623,
+    "timeMonth": 580,
+    "timeYear": 622,
     "dailyMinutesDown": {
       "2026-10-21": 293
     }
@@ -141,7 +141,7 @@
     "time": 927,
     "timeDay": 1384,
     "timeWeek": 1191,
-    "timeMonth": 1195,
+    "timeMonth": 1197,
     "timeYear": 956,
     "dailyMinutesDown": {}
   },
@@ -150,10 +150,10 @@
     "url": "mail.cihar.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "34.31%",
-    "uptimeWeek": "73.38%",
+    "uptimeDay": "65.23%",
+    "uptimeWeek": "73.37%",
     "uptimeMonth": "93.12%",
     "uptimeYear": "99.43%",
     "time": 124,
@@ -169,7 +169,8 @@
       "2026-11-13": 314,
       "2026-11-15": 293,
       "2026-11-16": 823,
-      "2026-11-17": 599
+      "2026-11-17": 599,
+      "2026-11-18": 1
     }
   },
   {
