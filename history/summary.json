@@ -13,8 +13,8 @@
     "time": 579,
     "timeDay": 568,
     "timeWeek": 596,
-    "timeMonth": 576,
-    "timeYear": 578,
+    "timeMonth": 581,
+    "timeYear": 579,
     "dailyMinutesDown": {}
   },
   {
@@ -31,7 +31,7 @@
     "time": 782,
     "timeDay": 811,
     "timeWeek": 816,
-    "timeMonth": 818,
+    "timeMonth": 824,
     "timeYear": 776,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 626,
     "timeDay": 679,
     "timeWeek": 640,
-    "timeMonth": 631,
+    "timeMonth": 637,
     "timeYear": 627,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 646,
     "timeDay": 743,
     "timeWeek": 666,
-    "timeMonth": 649,
+    "timeMonth": 653,
     "timeYear": 640,
     "dailyMinutesDown": {}
   },
@@ -85,8 +85,8 @@
     "time": 714,
     "timeDay": 841,
     "timeWeek": 906,
-    "timeMonth": 883,
-    "timeYear": 751,
+    "timeMonth": 889,
+    "timeYear": 752,
     "dailyMinutesDown": {}
   },
   {
@@ -103,7 +103,7 @@
     "time": 460,
     "timeDay": 445,
     "timeWeek": 464,
-    "timeMonth": 453,
+    "timeMonth": 456,
     "timeYear": 459,
     "dailyMinutesDown": {}
   },
@@ -116,13 +116,13 @@
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.14%",
-    "uptimeMonth": "98.44%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "99.87%",
     "time": 611,
     "timeDay": 469,
     "timeWeek": 715,
-    "timeMonth": 588,
-    "timeYear": 624,
+    "timeMonth": 605,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2026-10-21": 293,
       "2026-11-19": 389
@@ -142,8 +142,8 @@
     "time": 932,
     "timeDay": 1279,
     "timeWeek": 1256,
-    "timeMonth": 1203,
-    "timeYear": 961,
+    "timeMonth": 1213,
+    "timeYear": 962,
     "dailyMinutesDown": {}
   },
   {
@@ -151,16 +151,16 @@
     "url": "mail.cihar.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "71.53%",
-    "uptimeWeek": "59.11%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "64.95%",
     "uptimeMonth": "88.70%",
     "uptimeYear": "99.06%",
     "time": 124,
-    "timeDay": 128,
-    "timeWeek": 119,
-    "timeMonth": 128,
+    "timeDay": 125,
+    "timeWeek": 118,
+    "timeMonth": 129,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2026-11-02": 67,
@@ -173,7 +173,8 @@
       "2026-11-17": 599,
       "2026-11-18": 980,
       "2026-11-19": 439,
-      "2026-11-20": 519
+      "2026-11-20": 519,
+      "2026-11-22": 1
     }
   },
   {
@@ -190,7 +191,7 @@
     "time": 124,
     "timeDay": 129,
     "timeWeek": 139,
-    "timeMonth": 131,
+    "timeMonth": 132,
     "timeYear": 125,
     "dailyMinutesDown": {}
   }
